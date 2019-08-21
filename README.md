@@ -1,4 +1,4 @@
-Sklearn Tweet Classification
+**Sklearn Tweet Classification**
 
 This project does a text classification by using three classes of the datasets. I use several machine learning algorithm provided by sklearn and cross-validate each algorithm to get the best one. 
 But before doing the classification, i have to be able to deal with the challenge of the datasets. The content within the datasets can not be used directly, because the content still contain 'trash' information such as (@, #, RT, username, punctuation, local abbreviations, etc)
